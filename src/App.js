@@ -86,7 +86,6 @@ class App extends Component {
               Most of the issues that I encounter in my dev work is connecting backend and front end.
             </h1>
           </div>
-          <LambdaDemo />
         </header>
       </div>
     )
